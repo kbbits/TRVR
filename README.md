@@ -4,7 +4,7 @@
 VR and First Person multiplayer target shooting tech demo. Written in c++ and Blueprint. Tested with HTC Vive.
 UnrealEngine 4.26
 
-![FP view](./Images/tr_cap01.png)
+![FP view](./ProjectDoc/Images/tr_cap01.png)
 
 ## Gameplay
 Make your way through the platforms to collect the keys (gold and magenta columns). Use the keys to open the Exit Sync (green column) before your Animus drains away.
