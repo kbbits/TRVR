@@ -23,7 +23,7 @@ This project is part of my learning process and serves to demonstrate familiarit
  - Goods inventory actor component (ammo and pickup inventory)
  - VR HUD rendered to HMD stereo layer
 
-![Aerial view](./Images/big_view1.png)
+![Aerial view](./ProjectDoc/Images/big_view1.png)
 
 ## TODO 
  - Complete multiplayer with a full online subsystem to allow unique client player identification
@@ -46,10 +46,10 @@ This project is part of my learning process and serves to demonstrate familiarit
  - More FX and improve existing
  - Better UMG styling. i.e. any styling at all. :)
 
- ![FP view](./Images/tr_cap02.png)
+ ![FP view](./ProjectDoc/Images/tr_cap02.png)
 
- ![FP view](./Images/tr_cap03.png)
+ ![FP view](./ProjectDoc/Images/tr_cap03.png)
 
- ![FP view](./Images/tr_cap04.png)
+ ![FP view](./ProjectDoc/Images/tr_cap04.png)
 
 
