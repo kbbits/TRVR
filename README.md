@@ -1,6 +1,8 @@
 # TR VR 
 ## Original version of Target Runner
 
+## For more complete documentation see: [Docs](https://deepthoughtgaming.com/tr-vr/)
+
 VR and First Person multiplayer target shooting tech demo. Written in c++ and Blueprint. Tested with HTC Vive.
 UnrealEngine 4.26
 
@@ -16,16 +18,17 @@ Standard WASD control in first-person mode.
 Press 'F' or down on right motion controller d-pad to change weapon mods.  All mods are currently available: standard shot, bomb shot, rapid-fire and magnum.  Some weapon mods consume special ammo types.
 
 ## Study Project
-This project is part of my learning process and serves to demonstrate familiarity with various concecpts including:
+This project is part of my process of learning UE and serves to demonstrate familiarity with various concepts including:
  - c++ actor components, data driven scene generation and pickup drops, grid manager actor, others.
  - First-person and VR support in PlayerController and Pawn.
+ - Procedural level geometry
  - Data driven pickup goods
  - Goods inventory actor component (ammo and pickup inventory)
  - VR HUD rendered to HMD stereo layer
 
 ![Aerial view](./ProjectDoc/Images/big_view1.png)
 
-## TODO 
+## TODO (implemented in later version of Target Runner. See: https://github.com/kbbits/TargetRunner)
  - Complete multiplayer with a full online subsystem to allow unique client player identification
      - Proper save game for client players
  - Armory to allow spending earned goods (shards, etc.) to purchase ammo and unlock weapon mods between levels
